@@ -1,5 +1,10 @@
 .brandtitle{
     color: white;
-    font-family: monospace;
-    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.footerfont{
+    color: white
 }
