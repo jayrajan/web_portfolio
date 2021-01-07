@@ -6,7 +6,8 @@
 }
 
 .footerfont{
-    color: white
+    color: white;
+    text-align: end;
 
 }
 .nav{
