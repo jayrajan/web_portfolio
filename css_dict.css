@@ -35,3 +35,8 @@
     font-size: 20px;
     text-align: end;
 }
+
+hr{
+    border-color: black;
+    border-top: 1px;
+}
