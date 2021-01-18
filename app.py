@@ -6,6 +6,6 @@ app = Flask(__name__)
 def main():
     return '<h1> Welcome to Main Page </h1>'
 
-if __name__='__main__':
+if __name__== '__main__':
     app.run(debg=True)
 
